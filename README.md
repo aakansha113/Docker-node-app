@@ -65,7 +65,7 @@ kill -9 <PID>
 
 6- Check COPY package*.json before RUN npm install.
 
-`### 🚀 Production Tips
+### 🚀 Production Tips
 
 1- Use multi-stage Docker builds to reduce image size
 
