@@ -24,6 +24,11 @@ Docker-node-app/
 ├── package.json         # Node project metadata
 └── package-lock.json
 
+### 📥 Clone This Repository
+#### To clone this portfolio on your local system, run:
+```
+git clone https://github.com/aakansha113/my-portfolio.git
+```
 ## ▶️ Run Application With Docker
 ### 1. Build Docker Image
 ```
@@ -72,3 +77,6 @@ kill -9 <PID>
 2- Add environment variables using docker-compose.yml
 
 3- Use nginx reverse proxy in production
+
+### ⭐ Show Your Support
+#### If you like this portfolio, feel free to ⭐ star the repo!
