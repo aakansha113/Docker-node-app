@@ -27,7 +27,7 @@ Docker-node-app/
 ### 📥 Clone This Repository
 #### To clone this portfolio on your local system, run:
 ```
-git clone https://github.com/aakansha113/my-portfolio.git
+git clone https://github.com/aakansha113/Docker-node-app.git
 ```
 ## ▶️ Run Application With Docker
 ### 1. Build Docker Image
