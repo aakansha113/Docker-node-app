@@ -12,6 +12,7 @@ A simple production-ready Node.js application containerized with Docker.
 - .dockerignore to keep images small
 
 ## 📁 Folder Structure
+```
 Docker-node-app/
 │
 ├── node_modules/        # Installed dependencies (ignored in Docker)
@@ -23,7 +24,7 @@ Docker-node-app/
 ├── .dockerignore        # Files to ignore in builds
 ├── package.json         # Node project metadata
 └── package-lock.json
-
+```
 ### 📥 Clone This Repository
 #### To clone this portfolio on your local system, run:
 ```
